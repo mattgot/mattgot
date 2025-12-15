@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Jr`**
 
-Me chamo Mateus Andrade, tenho 24 anos e de Belém do Pará, terra do Açaí. Recentemente me forme em ADS pela Faculdade Estácio e venho desbravando essa aventura pelo mundo da programação. Sou um entusiasta da tecnologia e venho procurando melhorar cada dia mais meus conhecimentos e códigos. Meu sonho é um dia montar minha própria empresa de desenvolvimento e ajudar a todos que precisarem da tecnologia a seu favor, Espero que gostem do perfil! 
+Me chamo Mateus Andrade, tenho 24 anos e sou de Belém do Pará, terra do Açaí haha! Recém-formado em ADS pela Faculdade Estácio Belém, e venho desbravando essa aventura pelo mundo da programação. Sou um entusiasta da tecnologia e venho procurando melhorar cada dia mais meus conhecimentos e códigos. Meu sonho é um dia montar minha própria empresa de desenvolvimento e ajudar a todos que precisarem da tecnologia a seu favor. Espero que gostem do perfil! 
 
 ### 🤖 Linguagens e Tecnologias
 
